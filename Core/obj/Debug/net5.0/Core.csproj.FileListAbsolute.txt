@@ -1,0 +1,12 @@
+C:\Users\tomer\Downloads\Projects\Skinet\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\tomer\Downloads\Projects\Skinet\Core\bin\Debug\net5.0\Core.dll
+C:\Users\tomer\Downloads\Projects\Skinet\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\tomer\Downloads\Projects\Skinet\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\tomer\Downloads\Projects\Skinet\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\tomer\Downloads\Projects\Skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomer\Downloads\Projects\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\tomer\Downloads\Projects\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\tomer\Downloads\Projects\Skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Downloads\Projects\Skinet\Core\obj\Debug\net5.0\Core.dll
+C:\Users\tomer\Downloads\Projects\Skinet\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\tomer\Downloads\Projects\Skinet\Core\obj\Debug\net5.0\Core.pdb
