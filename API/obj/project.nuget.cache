@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eeXApjNgDM9HA8tKdU/rnjCo7RgXUs6O0Do8RisNOqSeyf6NtHt+zWggidg2zx6t3NM1ipDxMqRyDG1jWKcysg==",
+  "dgSpecHash": "a6LepUBMP7nnTCEKVQ5UZpRnyJf64N8snOhRMx15WxcTnVa7sSBJzeMID4wYFMEYF7dUvRd+wTnf9iz+3VaaPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomer\\Downloads\\Projects\\Skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\tomer\\Downloads\\Projects\\Skinet\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tomer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
