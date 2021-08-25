@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a6LepUBMP7nnTCEKVQ5UZpRnyJf64N8snOhRMx15WxcTnVa7sSBJzeMID4wYFMEYF7dUvRd+wTnf9iz+3VaaPg==",
+  "dgSpecHash": "iF6qJ9RQ5astsHyXSJcPk9zv+TLWr8NDAoAPu9imT7dJRiINcPCM9c+m3IupdtyJVaHdlwuQjoo/XlYKSqac4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomer\\Downloads\\Projects\\Skinet\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\tomer\\Downloads\\Projects\\Skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tomer\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\tomer\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\tomer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tomer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\tomer\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
